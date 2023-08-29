@@ -1,5 +1,10 @@
 # InteloneAPISummerCompetition2023
-## Team's Name  
+1. [Team's Name](#teams-name)
+2. [Problem Distribution](#problem-distribution)
+3. [Project Distribution](#project-distribution)
+4. [The Application of Intel® Extension for Scikit-learn*](#the-application-of-intel®-extension-for-scikit-learn)
+5. [Experience ](#experience)
+## Team's Name 
 IWantToDigForOil  
 ## Problem Distribution  
 Image recognition refers to the technology of using computers to process, analyze, and understand images to identify various patterns of targets and objects. The development of image recognition has gone through three stages: text recognition, digital image processing and recognition, and object recognition. In the field of machine learning, such recognition problems are generally transformed into classification problems.
@@ -20,7 +25,10 @@ Below is all about how to make a HWDG dataset like MNIST.
 2. Models  
 Through "import" to import some sklearn libraries, where SVC, RandomForestClassifier and etc. are involed. Below is a kind of small example. ![Alt text](image-6.png)
 ## The Application of Intel® Extension for Scikit-learn*  
-Intel CPU optimizations patching for **Scikit-learn** on.
-![Alt text](image-7.png)
-Intel CPU optimizations patching for **Scikit-learn** off.![Alt text](image-8.png)
+1. Intel CPU optimizations patching for **Scikit-learn** on.
+![Alt text](image-7.png)  
+2. Intel CPU optimizations patching for **Scikit-learn** off.![Alt text](image-8.png)
 ## Experience  
+As we all know, AI is often famous for its decision in many different kinds of areas, however, where there is always a big problem, in which spending plenty of time is not of good benifit when doing study, especially in machine learning and deep learning. So in this competition of Intel, there is a significant effect in accelerating the speed of computing params.   
+When making a lot of codes, I've realized using InteloneAPI for AI is such a simple technology. For instance, changing original code in sklearn to sklearnex is not necessary, which enormously increases our proficiency of using. And the environment of InteloneAPI is also quite easy to creat.  
+There are many other kinds of Intel oneAPI tools, like tensorflow, pytorch, and etc. So we still need more time to learn tools of oneAPI, exploring more optimizations for AI with my effort.
