@@ -2,7 +2,7 @@
 1. [Team's Name](#teams-name)
 2. [Problem Distribution](#problem-distribution)
 3. [Project Distribution](#project-distribution)
-4. [The Application of Intel® Extension for Scikit-learn*](#the-application-of-intel®-extension-for-scikit-learn)
+4. [The Application of Intel® Extension for Scikit-learn*](#sklearn)
 5. [Experience ](#experience)
 ## Team's Name 
 IWantToDigForOil  
@@ -24,7 +24,8 @@ Below is all about how to make a HWDG dataset like MNIST.
     1.4 define a method the load the information of the dateset ![Alt text](image-5.png)
 2. Models  
 Through "import" to import some sklearn libraries, where SVC, RandomForestClassifier and etc. are involed. Below is a kind of small example. ![Alt text](image-6.png)
-## The Application of Intel® Extension for Scikit-learn*  
+<span id="sklearn"></span>
+## The Application of Intel® Extension for Scikit-learn*
 1. Intel CPU optimizations patching for **Scikit-learn** on.
 ![Alt text](image-7.png)  
 2. Intel CPU optimizations patching for **Scikit-learn** off.![Alt text](image-8.png)
