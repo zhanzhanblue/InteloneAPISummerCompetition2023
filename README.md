@@ -17,7 +17,10 @@ Below is all about how to make a HWDG dataset like MNIST.
     1.3 seperate into four files
     At this step, 500:130 is accepted, which is approximately equal to 8:2(train:test).  
     1.4 define a method the load the information of the dateset ![Alt text](image-5.png)
-2. 
+2. Models  
+Through "import" to import some sklearn libraries, where SVC, RandomForestClassifier and etc. are involed. Below is a kind of small example. ![Alt text](image-6.png)
 ## The Application of Intel® Extension for Scikit-learn*  
-
+Intel CPU optimizations patching for **Scikit-learn** on.
+![Alt text](image-7.png)
+Intel CPU optimizations patching for **Scikit-learn** off.![Alt text](image-8.png)
 ## Experience  
